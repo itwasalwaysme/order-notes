@@ -1,0 +1,25 @@
+body {
+    padding: 40px;
+    background-color: rgb(71, 70, 70);
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.container {
+    min-width: 300px;
+    background-color: rgb(42, 42, 42);
+    border-radius: 6px;
+    padding: 20px;
+}
+
+.btn-primary {
+    width: 100%;
+}

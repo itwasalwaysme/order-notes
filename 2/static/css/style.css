@@ -1,0 +1,24 @@
+.table-striped-columns {
+    border: 2px solid white;
+    margin-top: 150px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+.nome {
+    font-weight: bold;
+    background-color: rgb(54, 54, 54);
+    border: 1px solid white;
+}
+
+.telefone {
+    font-weight: bold;
+    background-color: rgb(54, 54, 54);
+    border: 1px solid white;
+}
